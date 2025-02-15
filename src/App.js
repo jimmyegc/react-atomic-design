@@ -7,11 +7,12 @@ import Home from './pages/Home/Home'
 function App() {
   return (
     <>
-      <Button variant={'light'} text="Soy oscuro" icon="search" />
+      {/* <Button variant={'light'} text="Soy oscuro" icon="search" />
       <Title level="h1" text={'hola garaje'} />
       <Input type={'text'} placeholder={'escribe aqui yauy'} />
       <Input type={'password'} placeholder={'escribe aqui yauy'} />
-      <Icon type="heart" />
+      <Icon type="heart" /> */}
+      <Home />
     </>
   )
 }

@@ -1,0 +1,47 @@
+export const mockData = [
+  {
+    id: 1,
+    image: "https://www.jbl.com.mx/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwb734c6aa/1.JBL_Wave_Vibe_Beam_Product%20Image_Hero_Black.png",
+    alt: "Producto 1",
+    name: "Auriculares Inalámbricos",
+    description: "Auriculares con cancelación de ruido y batería de larga duración.",
+    stock: 25,
+    price: 59.99,
+  },
+  {
+    id: 2,
+    image: "https://m.media-amazon.com/images/I/91ynulgbLnL._AC_SL1500_.jpg",
+    alt: "Producto 2",
+    name: "Teclado Mecánico RGB",
+    description: "Teclado mecánico con interruptores táctiles y retroiluminación RGB.",
+    stock: 10,
+    price: 89.99,
+  },
+  {
+    id: 3,
+    image: "https://ouomx.com/cdn/shop/files/1--negro.jpg",
+    alt: "Producto 3",
+    name: "Silla Ergonómica",
+    description: "Silla de oficina ergonómica con soporte lumbar ajustable.",
+    stock: 5,
+    price: 199.99,
+  },
+  {
+    id: 4,
+    image: "https://m.media-amazon.com/images/I/810nQs8RRAL._AC_SL1500_.jpg",
+    alt: "Producto 4",
+    name: "Monitor 27” 144Hz",
+    description: "Monitor gaming de 27 pulgadas con resolución QHD y 144Hz.",
+    stock: 8,
+    price: 349.99,
+  },
+  {
+    id: 5,
+    image: "https://m.media-amazon.com/images/I/71ldJt9vooL._AC_UY1000_.jpg",
+    alt: "Producto 5",
+    name: "Smartwatch Deportivo",
+    description: "Reloj inteligente con GPS, monitoreo de actividad y resistencia al agua.",
+    stock: 30,
+    price: 129.99,
+  }
+];
